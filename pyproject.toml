@@ -21,7 +21,6 @@ dependencies = [
     "transformers",
     "xformers",
     "zarr",
-    "hydra-core",
     "pytorch-lightning>=2.1",
     "matplotlib",
     "scikit-image",
